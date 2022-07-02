@@ -1,0 +1,9 @@
+cinza #f7f7f7
+cinza escuro c6c6c6
+vermelho ee2211
+
+fonte arial
+parágrafos 20px
+Vantagens Bickcraft 64px
+
+conteudo principal máximo 1000px

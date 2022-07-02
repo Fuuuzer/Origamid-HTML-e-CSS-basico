@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+}
+
+div {
+  background: red;
+  width: calc(50%/2);
+  height: 100vh;
+}

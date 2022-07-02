@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 36px;
+  text-align: center;
+  margin-top: 80px; 
+}
+
+h2, p {
+  color: white;
+}
+
+p{
+  color: #b2b2b2;
+}
+
+span {
+  color: #febe01;
+}
+
+.carro {
+  border-radius: 4px;
+  padding: 20px 20px;
+  margin-bottom: 20px;
+  background-color: #111;
+}
+
+.produto {  
+  margin: 0 auto;
+  
+}
+
+.bicicleta {
+  border-radius: 4px;
+  padding: 20px;
+  background-color: #111;
+  
+}
+ 
+a {
+  margin: 0 auto;
+  border-radius: 4px;
+  padding: 15px 10px;
+  background-color: #febe01;
+  text-decoration: none;
+}
